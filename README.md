@@ -18,10 +18,7 @@ Development Frameworks
 Clases archivadas
 Ajustes
 Anuncio
-Jhony Mikel Escobar Galdámez
-•
-16:34
-Estructura sugerida un archivo README.md
+LIO MESSI
 
 README.txt
 Texto
@@ -44,6 +41,10 @@ Escribe la descripción del proyecto
 ***
 Listado de las versiones del proyecto con la siguiente información:
 > Mikel Escobar: Regional Consultant
+>
+### TESTING
+***
+esto es una prueba
 
 ### Control de versiones
 ***
